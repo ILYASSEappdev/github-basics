@@ -1,0 +1,7 @@
+
+
+1. GitHub ILYASSEappdev account : fork ILYASSEwebdev github-basics repo;
+
+2. VS code - Git ILYASSEappdev account : clone forked ILYASSEwebdev github-basics repo;
+
+3. VS code - Git ILYASSEappdev account : add some changes, then commit, then push (to the GitHub ILYASSEappdev accoun);
